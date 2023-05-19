@@ -56,7 +56,7 @@ function Home() {
           >
             <img
               class="object-cover w-full  h-96 md:h-auto md:h-40 md: w-48"
-              src="https://res.cloudinary.com/dsxyzdqvo/image/upload/v1684392055/designer_esepkm.webp"
+              src="https://res.cloudinary.com/dgsgi8g9f/image/upload/v1684507600/qqq_qi296r.png"
               alt=""
             />
 
@@ -64,7 +64,7 @@ function Home() {
               <div className="flex ">
                 <img
                   class="nk mx-2"
-                  src="https://res.cloudinary.com/dsxyzdqvo/image/upload/v1684392055/designer_esepkm.webp"
+                  src="https://res.cloudinary.com/dgsgi8g9f/image/upload/v1684507600/qqq_qi296r.png"
                   alt=""
                 />
                 RTS PHOTOGRAPHY
@@ -105,7 +105,7 @@ function Home() {
                     >
                       <img
                         class="object-cover w-full  h-96 md:h-auto md:h-40 md: w-48"
-                        src="https://res.cloudinary.com/dsxyzdqvo/image/upload/v1684392055/designer_esepkm.webp"
+                        src="https://res.cloudinary.com/dgsgi8g9f/image/upload/v1684507600/qqq_qi296r.png"
                         alt=""
                       />
           
@@ -113,7 +113,7 @@ function Home() {
                         <div className="flex ">
                           <img
                             class="nk mx-2"
-                            src="https://res.cloudinary.com/dsxyzdqvo/image/upload/v1684392055/designer_esepkm.webp"
+                            src="https://res.cloudinary.com/dgsgi8g9f/image/upload/v1684507600/qqq_qi296r.png"
                             alt=""
                           />
                           RTS PHOTOGRAPHY
@@ -154,7 +154,7 @@ function Home() {
           >
             <img
               class="object-cover w-full  h-96 md:h-auto md:h-40 md: w-48"
-              src="https://res.cloudinary.com/dsxyzdqvo/image/upload/v1684392055/designer_esepkm.webp"
+              src="https://res.cloudinary.com/dgsgi8g9f/image/upload/v1684507600/qqq_qi296r.png"
               alt=""
             />
 
@@ -162,7 +162,7 @@ function Home() {
               <div className="flex ">
                 <img
                   class="nk mx-2"
-                  src="https://res.cloudinary.com/dsxyzdqvo/image/upload/v1684392055/designer_esepkm.webp"
+                  src="https://res.cloudinary.com/dgsgi8g9f/image/upload/v1684507600/qqq_qi296r.png"
                   alt=""
                 />
                 RTS PHOTOGRAPHY
@@ -195,7 +195,7 @@ function Home() {
             </div>
           </a>
                   </div>
-                  
+
         </div>
       </div>
     </>
